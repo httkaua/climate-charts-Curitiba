@@ -63,8 +63,8 @@ Feito em junho de 2024 (2024-06)
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/httkaua/climate-charts-Curitiba
+```bash
+git clone https://github.com/httkaua/climate-charts-Curitiba
 Instale as dependências:
 
 ```bash
