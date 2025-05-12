@@ -64,13 +64,13 @@ Feito em junho de 2024 (2024-06)
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/analise-climatica-curitiba.git
+   git clone https://github.com/httkaua/climate-charts-Curitiba
 Instale as dependências:
 
-bash
-Copiar
-Editar
+```bash
 pip install pandas matplotlib squarify
+```
+
 Certifique-se de ter o arquivo CURITIBA.csv na mesma pasta.
 
 Execute o script:
@@ -80,8 +80,5 @@ python analise_clima.py
 ```
 
 ---
-
-🤝 Contribuições
-Este projeto foi feito como um trabalho acadêmico, mas sugestões e melhorias são bem-vindas! Abra uma issue ou envie um pull request.
 
 <p align="center"><b>Feito por Kauã Hamilton (Kusco)</b></p>
