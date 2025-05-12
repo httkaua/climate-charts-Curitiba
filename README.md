@@ -78,7 +78,7 @@ Certifique-se de ter o arquivo CURITIBA.csv na mesma pasta.
 Execute o script:
 
 ```bash
-python analise_clima.py
+python consolidado.py
 ```
 
 ---
